@@ -98,7 +98,7 @@ mechanisms to understand how users engage with QuickPicClaim. CCC may share info
 by cookies and other tracking mechanisms with CCC’s analytics service partners, who may combine it
 with other information that they’ve collected from users of QuickPicClaim. QuickPicClaim uses Google
 Analytics™ service or Google Firebase™ platform. For more information on how Google may use your
-data as part of those products, please go to [http://www.google.com/policies/privacy/partners.](http://www.google.com/policies/privacy/partners.)
+data as part of those products, please go to [http://www.google.com/policies/privacy/partners.](http://www.google.com/policies/privacy/partners)
 
 Your browser may allow you to disable the use of cookies. However, if you choose to decline cookies,
 you may not be able to take advantage of various features on the website or mobile application that are
